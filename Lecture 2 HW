@@ -1,0 +1,29 @@
+package lecture2;
+
+public class HW1 {
+	public static void main(String[] args) {
+		System.out.println("Darnell K. Voltaire");
+		System.out.println("dvoltair@nyit.edu");
+		System.out.println("Student id");
+	}
+}
+
+
+package lecture2;
+
+public class HW2 {
+	public static void main(String[] args) {
+		System.out.println(100+245);
+	}
+}
+
+
+package lecture2;
+
+public class HW3 {
+	public static void main(String[] args) {
+		int bow = 123;
+		System.out.println(bow + 1);
+	}
+
+}
